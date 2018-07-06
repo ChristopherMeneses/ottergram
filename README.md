@@ -1,4 +1,4 @@
 # ottergram
 # CPSC 473 - section 01
-# Christopher Menseses
+# Christopher Meneses
 # chrismeneses@csu.fullerton.edu
